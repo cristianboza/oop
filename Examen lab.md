@@ -6,9 +6,8 @@ Notiuni teoretice si definitii ale celor 4 concepte OOP, cu exemple din lumea re
 
 (3p)
 Explicate concepte : override, overload,final, static, variabile locale, clasa abstracta vs interfata
-Proiect in care sa se aplice cele 4 concepte OOP:
-
-Exemple: PetShop & Zoo , CarDealer, BookShop, BattleShip Game, eStore etc
+Proiect in care sa se aplice cele 4 concepte OOP: 
+Exemplu de proiect: PetShop & Zoo , CarDealer, BookShop, BattleShip Game, eStore etc
 
 
 (2p)

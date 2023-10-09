@@ -1,7 +1,7 @@
 Notarea se face de la 1:
 
 (4p)
-Notiuni teoretice despre cele 4 concepte OOP, cu exemple din lumea reala.
+Notiuni teoretice si definitii ale celor 4 concepte OOP, cu exemple din lumea reala.
 
 
 (3p)

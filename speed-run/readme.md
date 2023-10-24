@@ -7,6 +7,7 @@ This speed run project cycles through all major concepts taught in previous 10 l
 - Polymorphism
 
 MISC:
+- Class vs object
 - Access modifiers : private, public and protected
 - Abstract Class vs Interface
 - Override vs Overload
